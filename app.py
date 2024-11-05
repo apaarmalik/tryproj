@@ -3,7 +3,7 @@
 
 # In[2]:
 
-
+pip install uvicorn
 import pandas as pd
 import numpy as np
 
