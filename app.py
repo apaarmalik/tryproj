@@ -9,7 +9,7 @@ import numpy as np
 
 
 # In[3]:
-pip install --upgrade dash
+
 
 import dash as dh
 print("hi")
