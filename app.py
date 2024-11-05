@@ -11,6 +11,5 @@ import numpy as np
 # In[3]:
 
 
-txt = input("Please enter the text")
-print(txt)
+print("hi")
 
