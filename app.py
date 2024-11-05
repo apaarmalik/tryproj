@@ -6,10 +6,11 @@
 
 import pandas as pd
 import numpy as np
-import dash as dh
+
 
 # In[3]:
+pip install --upgrade dash
 
-
+import dash as dh
 print("hi")
 
